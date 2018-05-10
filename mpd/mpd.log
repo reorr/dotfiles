@@ -1,0 +1,349 @@
+May 02 07:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 02 07:51 : update: added /02. 朝焼けと熱帯魚.mp3
+May 02 07:51 : update: added DJ Misoshiru & MC Gohan - Apron Boy  Emiya-san Chi no Kyou no Gohan OP/01.エプロンボーイ.mp3
+May 02 07:51 : update: added Flashback - MIYAVI vs KenKen/Flashback.mp3
+May 02 07:51 : update: added kaze no koe wo kikinagaracollage (Single) Slow Start ED & Emiya-sanchi ED/1 風の声を聴きながら.mp3
+May 02 07:51 : update: added kaze no koe wo kikinagaracollage (Single) Slow Start ED & Emiya-sanchi ED/2 #最高の片想い.mp3
+May 02 07:51 : update: added kaze no koe wo kikinagaracollage (Single) Slow Start ED & Emiya-sanchi ED/3 コラージュ.mp3
+May 02 07:51 : update: added kaze no koe wo kikinagaracollage (Single) Slow Start ED & Emiya-sanchi ED/4 風の声を聴きながら -TV size-.mp3
+May 02 07:51 : update: added KISS OF DEATH/1 KISS OF DEATH(Produced by HYDE).mp3
+May 02 07:51 : update: added KISS OF DEATH/2 GLAMOROUS SKY [Re-Present 2018].mp3
+May 02 07:51 : update: added KISS OF DEATH/3 KISS OF DEATH [Produced by HYDE]-TV size-.mp3
+May 02 07:51 : update: added KISS OF DEATH/4 KISS OF DEATH [Produced by HYDE]-instrumental-.mp3
+May 02 07:51 : client: [0] opened from [::1]:55222
+May 02 07:51 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 02 07:51 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 02 07:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 02 07:55 : player: played "02. 朝焼けと熱帯魚.mp3"
+May 02 07:57 : client: [1] opened from [::1]:55330
+May 02 07:57 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 02 07:59 : client: [1] closed
+May 02 08:01 : player: played "02. 朝焼けと熱帯魚.mp3"
+May 02 08:01 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 02 08:03 : client: [2] opened from [::1]:55660
+May 02 08:03 : client: [2] closed
+May 02 08:04 : player: played "DJ Misoshiru & MC Gohan - Apron Boy  Emiya-san Chi no Kyou no Gohan OP/01.エプロンボーイ.mp3"
+May 02 08:04 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 02 08:07 : player: played "Flashback - MIYAVI vs KenKen/Flashback.mp3"
+May 02 08:07 : client: [3] opened from [::1]:55824
+May 02 08:07 : client: [3] closed
+May 02 08:07 : player: played "kaze no koe wo kikinagaracollage (Single) Slow Start ED & Emiya-sanchi ED/1 風の声を聴きながら.mp3"
+May 02 08:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 02 08:08 : client: [0] opened from [::1]:55524
+May 02 08:08 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 02 08:08 : exception: Failed to open "My ALSA Device" [alsa]
+May 02 08:08 : exception: nested: Failed to open ALSA device "hw:0,0": Device or resource busy
+May 02 08:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 02 08:08 : client: [0] closed
+May 02 08:09 : client: [1] opened from [::1]:55526
+May 02 08:09 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 02 08:11 : client: [1] closed
+May 02 09:30 : client: [2] opened from [::1]:56658
+May 02 09:30 : client: [2] closed
+May 02 09:31 : client: [3] opened from [::1]:56660
+May 02 09:31 : client: [3] closed
+May 02 09:32 : client: [4] opened from [::1]:56664
+May 02 09:33 : client: [4] closed
+May 02 09:34 : client: [5] opened from [::1]:56668
+May 02 09:35 : client: [6] opened from [::1]:56670
+May 02 09:35 : client: [6] closed
+May 02 09:35 : client: [5] closed
+May 02 09:39 : client: [7] opened from [::1]:56984
+May 02 09:39 : client: [7] closed
+May 02 09:39 : client: [8] opened from [::1]:56986
+May 02 09:43 : client: [9] opened from [::1]:57020
+May 02 09:43 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 02 09:44 : client: [9] closed
+May 02 09:44 : client: [8] closed
+May 02 09:45 : player: played "02. 朝焼けと熱帯魚.mp3"
+May 02 14:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 02 14:11 : client: [0] opened from [::1]:33696
+May 02 14:11 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 02 14:12 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 02 14:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 02 14:16 : player: played "KISS OF DEATH/1 KISS OF DEATH(Produced by HYDE).mp3"
+May 02 14:17 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 02 14:17 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 02 14:21 : player: played "kaze no koe wo kikinagaracollage (Single) Slow Start ED & Emiya-sanchi ED/1 風の声を聴きながら.mp3"
+May 02 14:25 : player: played "kaze no koe wo kikinagaracollage (Single) Slow Start ED & Emiya-sanchi ED/2 #最高の片想い.mp3"
+May 02 14:29 : player: played "kaze no koe wo kikinagaracollage (Single) Slow Start ED & Emiya-sanchi ED/3 コラージュ.mp3"
+May 02 14:31 : player: played "kaze no koe wo kikinagaracollage (Single) Slow Start ED & Emiya-sanchi ED/4 風の声を聴きながら -TV size-.mp3"
+May 02 14:35 : player: played "KISS OF DEATH/1 KISS OF DEATH(Produced by HYDE).mp3"
+May 02 14:39 : player: played "KISS OF DEATH/2 GLAMOROUS SKY [Re-Present 2018].mp3"
+May 02 14:41 : player: played "KISS OF DEATH/3 KISS OF DEATH [Produced by HYDE]-TV size-.mp3"
+May 02 15:12 : client: [0] closed
+May 02 15:32 : player: played "KISS OF DEATH/4 KISS OF DEATH [Produced by HYDE]-instrumental-.mp3"
+May 05 00:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 05 00:40 : client: [0] opened from [::1]:53518
+May 05 00:40 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 05 00:40 : update: added Sawai Miku - Nakimushi. (Kimi to Boku ED Single) (FLAC)/01. なきむし。.flac
+May 05 00:40 : update: added Sawai Miku - Nakimushi. (Kimi to Boku ED Single) (FLAC)/02. 低空飛行の鳩.flac
+May 05 00:40 : update: added Sawai Miku - Nakimushi. (Kimi to Boku ED Single) (FLAC)/03. 幸せになってね.flac
+May 05 00:40 : update: added Sawai Miku - Nakimushi. (Kimi to Boku ED Single) (FLAC)/04. なきむし。 (Anime Ver.).flac
+May 05 00:40 : update: added Sawai Miku - Nakimushi. (Kimi to Boku ED Single) (FLAC)/05. なきむし。 (Instrumental).flac
+May 05 00:40 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 05 00:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 05 00:45 : player: played "Sawai Miku - Nakimushi. (Kimi to Boku ED Single) (FLAC)/01. なきむし。.flac"
+May 05 00:51 : player: played "Sawai Miku - Nakimushi. (Kimi to Boku ED Single) (FLAC)/02. 低空飛行の鳩.flac"
+May 05 00:52 : client: [0] closed
+May 05 00:52 : player: played "Sawai Miku - Nakimushi. (Kimi to Boku ED Single) (FLAC)/03. 幸せになってね.flac"
+May 05 15:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 05 15:24 : client: [0] opened from [::1]:38986
+May 05 15:24 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 05 15:24 : update: added /01 - いけないボーダーライン.mp3
+May 05 15:24 : update: added /01 Harunohi - Gassho.mp3
+May 05 15:24 : update: added /01 LOVE & LIFE.mp3
+May 05 15:24 : update: added /01. Maybe the next waltz.mp3
+May 05 15:24 : update: added /02 NonStop!Journey.mp3
+May 05 15:24 : update: added /Another One Bites The Dust.mp3
+May 05 15:24 : update: added /Bohemian Rhapsody.mp3
+May 05 15:24 : update: added Danmachi OVA Bonus CD “Kimi to Boku no 1-nichi”/01. 君とボクの1日.mp3
+May 05 15:24 : update: added fall 2017/GARNiDELiA - Aikotoba (Single) ANIME-GATARIS OP/01. アイコトバ.mp3
+May 05 15:24 : update: added fall 2017/GARNiDELiA - Aikotoba (Single) ANIME-GATARIS OP/02. Hysteric Bullet.mp3
+May 05 15:24 : update: added fall 2017/GARNiDELiA - Aikotoba (Single) ANIME-GATARIS OP/03. Lonely Girl.mp3
+May 05 15:24 : update: added fall 2017/GARNiDELiA - Aikotoba (Single) ANIME-GATARIS OP/04. アイコトバ -Instrumental-.mp3
+May 05 15:24 : update: added fall 2017/GARNiDELiA - Aikotoba (Single) ANIME-GATARIS OP/05. アイコトバ -TV Size Ver.-.mp3
+May 05 15:24 : update: added fall 2017/More One Night - Chito&Yuuri/1 More One Night.mp3
+May 05 15:24 : update: added fall 2017/More One Night - Chito&Yuuri/2 雨だれの歌.mp3
+May 05 15:24 : update: added fall 2017/More One Night - Chito&Yuuri/3 More One Night (instrumental).mp3
+May 05 15:24 : update: added fall 2017/More One Night - Chito&Yuuri/4 雨だれの歌 (instrumental).mp3
+May 05 15:24 : update: added fall 2017/Panorama Panama Town - Rapture/01. Rapture.mp3
+May 05 15:24 : update: added fall 2017/Qaijff - Ai wo Oshiete Kureta Kimi e/1 愛を教えてくれた君へ.mp3
+May 05 15:24 : update: added fall 2017/Qaijff - Ai wo Oshiete Kureta Kimi e/2 セツナロマンチック.mp3
+May 05 15:24 : update: added fall 2017/Qaijff - Ai wo Oshiete Kureta Kimi e/3 愛を教えてくれた君へ (TV Size Version).mp3
+May 05 15:24 : update: added fall 2017/Qaijff - Ai wo Oshiete Kureta Kimi e/4 愛を教えてくれた君へ (Instrumental).mp3
+May 05 15:24 : update: added fall 2017/Qaijff - Ai wo Oshiete Kureta Kimi e/5 セツナロマンチック (Instrumental).mp3
+May 05 15:24 : update: added fall 2017/Ugoku, Ugoku - Chito&Yuuri/1 動く、動く.mp3
+May 05 15:24 : update: added fall 2017/Ugoku, Ugoku - Chito&Yuuri/2 Endless Journey.mp3
+May 05 15:24 : update: added fall 2017/Ugoku, Ugoku - Chito&Yuuri/3 動く、動く (instrumental).mp3
+May 05 15:24 : update: added fall 2017/Ugoku, Ugoku - Chito&Yuuri/4 Endless Journey (instrumental).mp3
+May 05 15:24 : update: added Innocent flower/01. 春空.mp3
+May 05 15:24 : update: added Innocent flower/02. 夢のつぼみ.mp3
+May 05 15:24 : update: added Innocent flower/03. Lucky Clover.mp3
+May 05 15:24 : update: added Innocent flower/04. コイセヨオトメ.mp3
+May 05 15:24 : update: added Innocent flower/05. 涙のあとは.mp3
+May 05 15:24 : update: added Innocent flower/06. いつもずっと.mp3
+May 05 15:24 : update: added Innocent flower/07. Starry Wish.mp3
+May 05 15:24 : update: added Innocent flower/08. Will.mp3
+May 05 15:24 : update: added Innocent flower/09. 星屑のコントレイル.mp3
+May 05 15:24 : update: added Innocent flower/10. 旅の途中.mp3
+May 05 15:24 : update: added Innocent flower/11. harmony ribbon.mp3
+May 05 15:24 : update: added Innocent flower/12. Innocent flower.mp3
+May 05 15:24 : update: added Inori Minase - Aimaimoko/01. アイマイモコ.mp3
+May 05 15:24 : update: added Inori Minase - Aimaimoko/02. リトルシューゲイザー.mp3
+May 05 15:24 : update: added Inori Minase - Aimaimoko/03. 夏夢.mp3
+May 05 15:24 : update: added Inori Minase - Yume no Tsubomo/01 夢のつぼみ.mp3
+May 05 15:24 : update: added Inori Minase - Yume no Tsubomo/02 笑顔が似合う日.mp3
+May 05 15:24 : update: added Inori Minase - Yume no Tsubomo/03 あの日の空へ.mp3
+May 05 15:24 : update: added /Killer Queen.mp3
+May 05 15:24 : update: added NewPipe/Dark Cherry Mystery FULL HQ (Owarimonogatari 2nd Season OP3).m4a
+May 05 15:24 : update: added NewPipe/Gyro Zeppeli is dead.m4a
+May 05 15:24 : update: added NewPipe/Houseki no Kuni ED_Ending Theme - Kirameku Hamabe _ Yuiko Ohara.m4a
+May 05 15:24 : update: added NewPipe/Houseki no Kuni Opening Theme「YURiKA - Kyoumen no Nami」OP Full.m4a
+May 05 15:24 : update: added NewPipe/Little Witch Academia Full Ending _ リトルウィッチアカデミア ED - Hoshi Wo Tadoreba by Yuiko Ohara.m4a
+May 05 15:24 : update: added NewPipe/Little Witch Academia _ Chamber Of Time Opening Full _ Toki no Miraju - Yuiko Ohara.m4a
+May 05 15:24 : update: added NewPipe/Owarimonogatari Season 2 Ending Full『ClariS - SHIORI』.m4a
+May 05 15:24 : update: added NewPipe/Re_Zero Episode 18 Insert Song『REM (Inori Minase) - Wishing』English Subtitles.m4a
+May 05 15:24 : update: added NewPipe/Terminal Terminal FULL HQ (Owarimonogatari 2nd Season OP1) by Emiri Katou.m4a
+May 05 15:24 : update: added NewPipe/Yuiko Ohara _ 大原ゆい子 - ユビオリ.m4a
+May 05 15:24 : update: added NewPipe/Yuru Camp△ OP Full - Shiny Days _ Asaka (ゆるキャン△ OP).m4a
+May 05 15:24 : update: added NewPipe/[Engsub] Doshite toaster  - Sukima Switch.m4a
+May 05 15:24 : update: added NewPipe/きみがいいなら.m4a
+May 05 15:24 : update: added NewPipe/月見ヶ丘.m4a
+May 05 15:24 : update: added Ready Steady Go!/1 Ready Steady Go!.mp3
+May 05 15:24 : update: added Ready Steady Go!/2 Happy Birthday.mp3
+May 05 15:24 : update: added Ready Steady Go!/3 Winter Wonder Wander.mp3
+May 05 15:24 : update: added SoundRecords/SoundRecord-2017-11-16-19-51-47.wav
+May 05 15:24 : update: added SoundRecords/SoundRecord-2017-11-16-19-56-07.wav
+May 05 15:24 : update: added SoundRecords/SoundRecord-2017-11-20-18-18-47.wav
+May 05 15:24 : update: added SoundRecords/SoundRecord-2017-11-20-18-23-00.wav
+May 05 15:24 : update: added SoundRecords/SoundRecord-2017-11-28-13-43-00.wav
+May 05 15:24 : update: added SoundRecords/SoundRecord-2017-12-03-10-18-18.wav
+May 05 15:24 : update: added SoundRecords/SoundRecord-2017-12-03-10-19-09.wav
+May 05 15:24 : update: added SoundRecords/SoundRecord-2017-12-26-23-25-50.wav
+May 05 15:24 : update: added SoundRecords/SoundRecord-2017-12-26-23-28-57.wav
+May 05 15:24 : player: played "Sawai Miku - Nakimushi. (Kimi to Boku ED Single) (FLAC)/03. 幸せになってね.flac"
+May 05 15:24 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 05 15:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 05 15:28 : player: played "Danmachi OVA Bonus CD “Kimi to Boku no 1-nichi”/01. 君とボクの1日.mp3"
+May 05 15:28 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 05 15:31 : player: played "DJ Misoshiru & MC Gohan - Apron Boy  Emiya-san Chi no Kyou no Gohan OP/01.エプロンボーイ.mp3"
+May 05 15:31 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 05 15:35 : player: played "fall 2017/GARNiDELiA - Aikotoba (Single) ANIME-GATARIS OP/01. アイコトバ.mp3"
+May 05 15:40 : player: played "fall 2017/GARNiDELiA - Aikotoba (Single) ANIME-GATARIS OP/02. Hysteric Bullet.mp3"
+May 05 15:45 : player: played "fall 2017/Panorama Panama Town - Rapture/01. Rapture.mp3"
+May 05 15:51 : player: played "fall 2017/Qaijff - Ai wo Oshiete Kureta Kimi e/1 愛を教えてくれた君へ.mp3"
+May 05 15:55 : player: played "fall 2017/Qaijff - Ai wo Oshiete Kureta Kimi e/2 セツナロマンチック.mp3"
+May 05 15:57 : player: played "fall 2017/Qaijff - Ai wo Oshiete Kureta Kimi e/3 愛を教えてくれた君へ (TV Size Version).mp3"
+May 05 16:02 : player: played "fall 2017/Ugoku, Ugoku - Chito&Yuuri/1 動く、動く.mp3"
+May 05 16:04 : client: [0] closed
+May 05 20:29 : player: played "fall 2017/Ugoku, Ugoku - Chito&Yuuri/2 Endless Journey.mp3"
+May 07 16:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 07 16:09 : client: [0] opened from [::1]:45650
+May 07 16:09 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 07 16:09 : update: removing KISS OF DEATH/4 KISS OF DEATH [Produced by HYDE]-instrumental-.mp3
+May 07 16:09 : update: removing KISS OF DEATH/3 KISS OF DEATH [Produced by HYDE]-TV size-.mp3
+May 07 16:09 : update: removing KISS OF DEATH/2 GLAMOROUS SKY [Re-Present 2018].mp3
+May 07 16:09 : update: removing KISS OF DEATH/1 KISS OF DEATH(Produced by HYDE).mp3
+May 07 16:09 : update: removing Sawai Miku - Nakimushi. (Kimi to Boku ED Single) (FLAC)/05. なきむし。 (Instrumental).flac
+May 07 16:09 : update: removing Sawai Miku - Nakimushi. (Kimi to Boku ED Single) (FLAC)/04. なきむし。 (Anime Ver.).flac
+May 07 16:09 : update: removing Sawai Miku - Nakimushi. (Kimi to Boku ED Single) (FLAC)/03. 幸せになってね.flac
+May 07 16:09 : update: removing Sawai Miku - Nakimushi. (Kimi to Boku ED Single) (FLAC)/02. 低空飛行の鳩.flac
+May 07 16:09 : update: removing Sawai Miku - Nakimushi. (Kimi to Boku ED Single) (FLAC)/01. なきむし。.flac
+May 07 16:09 : update: added FLAC/KISS OF DEATH(Produced by HYDE)/中島美嘉 - GLAMOROUS SKY [RePresent 2018].flac
+May 07 16:09 : update: added FLAC/KISS OF DEATH(Produced by HYDE)/中島美嘉 - KISS OF DEATH [Produced by HYDE]-instrumental-.flac
+May 07 16:09 : update: added FLAC/KISS OF DEATH(Produced by HYDE)/中島美嘉 - KISS OF DEATH [Produced by HYDE]-TV size-.flac
+May 07 16:09 : update: added FLAC/KISS OF DEATH(Produced by HYDE)/中島美嘉 - KISS OF DEATH(Produced by HYDE) .flac
+May 07 16:09 : update: added FLAC/Sawai Miku - Nakimushi. (Kimi to Boku ED Single) (FLAC)/01. なきむし。.flac
+May 07 16:09 : update: added FLAC/Sawai Miku - Nakimushi. (Kimi to Boku ED Single) (FLAC)/02. 低空飛行の鳩.flac
+May 07 16:09 : update: added FLAC/Sawai Miku - Nakimushi. (Kimi to Boku ED Single) (FLAC)/03. 幸せになってね.flac
+May 07 16:09 : update: added FLAC/Sawai Miku - Nakimushi. (Kimi to Boku ED Single) (FLAC)/04. なきむし。 (Anime Ver.).flac
+May 07 16:09 : update: added FLAC/Sawai Miku - Nakimushi. (Kimi to Boku ED Single) (FLAC)/05. なきむし。 (Instrumental).flac
+May 07 16:09 : update: added FLAC/[180328] XX:me - DARLING in the FranXX ED Collection Vol. 1 (FLAC)/01. XXme - Torikago.flac
+May 07 16:09 : update: added FLAC/[180328] XX:me - DARLING in the FranXX ED Collection Vol. 1 (FLAC)/02. XXme - Manatsu no Setsuna.flac
+May 07 16:09 : update: added FLAC/[180328] XX:me - DARLING in the FranXX ED Collection Vol. 1 (FLAC)/03. XXme - Beautiful World.flac
+May 07 16:09 : update: added FLAC/[180328] XX:me - DARLING in the FranXX ED Collection Vol. 1 (FLAC)/04. XXme - Torikago (TV Size).flac
+May 07 16:09 : update: added FLAC/[180328] XX:me - DARLING in the FranXX ED Collection Vol. 1 (FLAC)/05. XXme - Manatsu no Setsuna (TV Size).flac
+May 07 16:09 : update: added FLAC/[180328] XX:me - DARLING in the FranXX ED Collection Vol. 1 (FLAC)/06. XXme - Beautiful World (TV Size).flac
+May 07 16:09 : update: added FLAC/[ASL] Sakamoto Maaya - Koufuku Graffiti OP - Shiawase ni Tsuite Watashi ga Shitteiru Itsutsu no Houhou [FLAC] [w Scans]/01 Shiawase ni Tsuite Watashi ga Shitteiru Itsutsu no Houhou.flac
+May 07 16:09 : update: added FLAC/[ASL] Sakamoto Maaya - Koufuku Graffiti OP - Shiawase ni Tsuite Watashi ga Shitteiru Itsutsu no Houhou [FLAC] [w Scans]/02 Shikisai.flac
+May 07 16:09 : update: added FLAC/[ASL] Sakamoto Maaya - Koufuku Graffiti OP - Shiawase ni Tsuite Watashi ga Shitteiru Itsutsu no Houhou [FLAC] [w Scans]/03 Kimi no Suki na Hito.flac
+May 07 16:09 : update: added FLAC/[ASL] Sakamoto Maaya - Koufuku Graffiti OP - Shiawase ni Tsuite Watashi ga Shitteiru Itsutsu no Houhou [FLAC] [w Scans]/04 Shiawase ni Tsuite Watashi ga Shitteiru Itsutsu no Houhou -Instrumental-.flac
+May 07 16:09 : update: added FLAC/[ASL] Sakamoto Maaya - Koufuku Graffiti OP - Shiawase ni Tsuite Watashi ga Shitteiru Itsutsu no Houhou [FLAC] [w Scans]/05 Shikisai -Instrumental-.flac
+May 07 16:09 : player: played "fall 2017/Ugoku, Ugoku - Chito&Yuuri/2 Endless Journey.mp3"
+May 07 16:09 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 07 16:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 07 16:09 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 07 16:09 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 07 16:09 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 07 16:14 : player: played "Innocent flower/07. Starry Wish.mp3"
+May 07 16:18 : player: played "Innocent flower/08. Will.mp3"
+May 07 16:21 : client: [0] closed
+May 07 16:21 : player: played "Innocent flower/09. 星屑のコントレイル.mp3"
+May 07 22:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 07 22:49 : client: [0] opened from [::1]:58138
+May 07 22:49 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 07 22:49 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 07 22:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 07 22:54 : player: played "Innocent flower/10. 旅の途中.mp3"
+May 07 23:00 : player: played "Innocent flower/11. harmony ribbon.mp3"
+May 07 23:05 : player: played "Innocent flower/12. Innocent flower.mp3"
+May 07 23:10 : player: played "Inori Minase - Aimaimoko/01. アイマイモコ.mp3"
+May 07 23:14 : player: played "Inori Minase - Aimaimoko/02. リトルシューゲイザー.mp3"
+May 07 23:14 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 08 00:07 : client: [0] closed
+May 08 00:07 : player: played "FLAC/[180328] XX:me - DARLING in the FranXX ED Collection Vol. 1 (FLAC)/01. XXme - Torikago.flac"
+May 09 06:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 09 06:43 : client: [0] opened from [::1]:47498
+May 09 06:43 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 09 06:45 : client: [0] closed
+May 09 06:45 : client: [1] opened from [::1]:47500
+May 09 06:45 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 09 06:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 09 06:46 : client: [2] opened from [::1]:47502
+May 09 06:46 : client: [1] closed
+May 09 06:46 : client: [2] closed
+May 09 06:47 : client: [3] opened from [::1]:47504
+May 09 06:48 : client: [3] closed
+May 09 06:50 : player: played "FLAC/[ASL] Sakamoto Maaya - Koufuku Graffiti OP - Shiawase ni Tsuite Watashi ga Shitteiru Itsutsu no Houhou [FLAC] [w Scans]/02 Shikisai.flac"
+May 09 06:52 : client: [4] opened from [::1]:47506
+May 09 06:53 : client: [4] closed
+May 09 06:55 : player: played "FLAC/[ASL] Sakamoto Maaya - Koufuku Graffiti OP - Shiawase ni Tsuite Watashi ga Shitteiru Itsutsu no Houhou [FLAC] [w Scans]/03 Kimi no Suki na Hito.flac"
+May 09 06:56 : client: [5] opened from [::1]:47508
+May 09 06:56 : client: [5] closed
+May 09 06:59 : player: played "FLAC/[180328] XX:me - DARLING in the FranXX ED Collection Vol. 1 (FLAC)/01. XXme - Torikago.flac"
+May 09 07:03 : player: played "FLAC/[180328] XX:me - DARLING in the FranXX ED Collection Vol. 1 (FLAC)/02. XXme - Manatsu no Setsuna.flac"
+May 09 07:07 : player: played "FLAC/[180328] XX:me - DARLING in the FranXX ED Collection Vol. 1 (FLAC)/03. XXme - Beautiful World.flac"
+May 09 07:09 : player: played "FLAC/[180328] XX:me - DARLING in the FranXX ED Collection Vol. 1 (FLAC)/04. XXme - Torikago (TV Size).flac"
+May 09 07:10 : player: played "FLAC/[180328] XX:me - DARLING in the FranXX ED Collection Vol. 1 (FLAC)/05. XXme - Manatsu no Setsuna (TV Size).flac"
+May 09 07:10 : client: [6] opened from [::1]:47510
+May 09 07:10 : client: [6] closed
+May 09 07:11 : client: [7] opened from [::1]:47512
+May 09 07:11 : client: [7] closed
+May 09 07:12 : player: played "FLAC/[180328] XX:me - DARLING in the FranXX ED Collection Vol. 1 (FLAC)/06. XXme - Beautiful World (TV Size).flac"
+May 09 07:16 : player: played "FLAC/[ASL] Sakamoto Maaya - Koufuku Graffiti OP - Shiawase ni Tsuite Watashi ga Shitteiru Itsutsu no Houhou [FLAC] [w Scans]/01 Shiawase ni Tsuite Watashi ga Shitteiru Itsutsu no Houhou.flac"
+May 09 07:21 : player: played "FLAC/[ASL] Sakamoto Maaya - Koufuku Graffiti OP - Shiawase ni Tsuite Watashi ga Shitteiru Itsutsu no Houhou [FLAC] [w Scans]/02 Shikisai.flac"
+May 09 07:26 : player: played "FLAC/[ASL] Sakamoto Maaya - Koufuku Graffiti OP - Shiawase ni Tsuite Watashi ga Shitteiru Itsutsu no Houhou [FLAC] [w Scans]/03 Kimi no Suki na Hito.flac"
+May 09 07:27 : client: [8] opened from [::1]:47514
+May 09 07:33 : player: played "FLAC/Sawai Miku - Nakimushi. (Kimi to Boku ED Single) (FLAC)/01. なきむし。.flac"
+May 09 07:33 : client: [8] closed
+May 09 07:33 : client: [9] opened from [::1]:47516
+May 09 07:36 : client: [9] closed
+May 09 07:36 : client: [10] opened from [::1]:47518
+May 09 07:37 : client: [10] closed
+May 09 07:37 : client: [11] opened from [::1]:47520
+May 09 07:38 : client: [11] closed
+May 09 07:38 : client: [12] opened from [::1]:47522
+May 09 07:38 : player: played "FLAC/Sawai Miku - Nakimushi. (Kimi to Boku ED Single) (FLAC)/02. 低空飛行の鳩.flac"
+May 09 07:39 : client: [12] closed
+May 09 07:39 : client: [13] opened from [::1]:47524
+May 09 07:39 : client: [13] closed
+May 09 07:39 : client: [14] opened from [::1]:47526
+May 09 07:40 : client: [14] closed
+May 09 07:40 : client: [15] opened from [::1]:47528
+May 09 07:42 : client: [15] closed
+May 09 07:42 : client: [16] opened from [::1]:47530
+May 09 07:43 : client: [16] closed
+May 09 07:43 : client: [17] opened from [::1]:47532
+May 09 07:44 : player: played "FLAC/Sawai Miku - Nakimushi. (Kimi to Boku ED Single) (FLAC)/03. 幸せになってね.flac"
+May 09 07:44 : client: [17] closed
+May 09 07:44 : client: [18] opened from [::1]:47534
+May 09 07:44 : client: [18] closed
+May 09 07:44 : client: [19] opened from [::1]:47536
+May 09 07:45 : player: played "FLAC/Sawai Miku - Nakimushi. (Kimi to Boku ED Single) (FLAC)/04. なきむし。 (Anime Ver.).flac"
+May 09 07:45 : client: [19] closed
+May 09 07:45 : client: [20] opened from [::1]:47538
+May 09 07:46 : client: [20] closed
+May 09 07:46 : client: [21] opened from [::1]:47540
+May 09 07:47 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 09 07:48 : client: [21] closed
+May 09 07:48 : client: [22] opened from [::1]:47542
+May 09 07:49 : client: [22] closed
+May 09 07:49 : client: [23] opened from [::1]:47544
+May 09 07:51 : client: [23] closed
+May 09 07:51 : client: [24] opened from [::1]:47546
+May 09 07:52 : client: [24] closed
+May 09 07:52 : client: [25] opened from [::1]:47548
+May 09 07:52 : player: played "Innocent flower/10. 旅の途中.mp3"
+May 09 07:58 : player: played "Innocent flower/11. harmony ribbon.mp3"
+May 09 08:03 : client: [25] closed
+May 09 08:04 : player: played "Innocent flower/12. Innocent flower.mp3"
+May 09 09:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 09 09:15 : client: [0] opened from [::1]:39972
+May 09 09:15 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 09 09:16 : client: [0] closed
+May 09 09:16 : client: [1] opened from [::1]:39974
+May 09 09:16 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 09 09:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 09 09:16 : client: [1] closed
+May 09 09:16 : client: [2] opened from [::1]:39976
+May 09 09:17 : client: [2] closed
+May 09 09:17 : client: [3] opened from [::1]:39978
+May 09 09:21 : player: played "Innocent flower/12. Innocent flower.mp3"
+May 09 09:25 : player: played "Inori Minase - Aimaimoko/01. アイマイモコ.mp3"
+May 09 09:30 : player: played "Inori Minase - Aimaimoko/02. リトルシューゲイザー.mp3"
+May 09 09:35 : player: played "Inori Minase - Aimaimoko/03. 夏夢.mp3"
+May 09 09:39 : client: [3] closed
+May 09 09:39 : player: played "Inori Minase - Yume no Tsubomo/03 あの日の空へ.mp3"
+May 09 09:39 : client: [4] opened from [::1]:40056
+May 09 09:39 : client: [4] closed
+May 09 09:39 : player: played "Ready Steady Go!/1 Ready Steady Go!.mp3"
+May 09 09:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 09 09:41 : client: [0] opened from [::1]:39586
+May 09 09:41 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 09 09:42 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 09 09:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 09 09:42 : client: [0] closed
+May 09 09:42 : client: [1] opened from [::1]:39588
+May 09 09:42 : client: [1] closed
+May 09 09:43 : client: [2] opened from [::1]:39590
+May 09 09:51 : player: played "Ready Steady Go!/1 Ready Steady Go!.mp3"
+May 09 16:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 09 16:57 : client: [0] opened from [::1]:55076
+May 09 16:57 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 09 16:57 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 09 16:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 09 16:57 : client: [0] closed
+May 09 16:57 : client: [1] opened from [::1]:55078
+May 09 17:01 : player: played "Innocent flower/07. Starry Wish.mp3"
+May 09 17:06 : player: played "Innocent flower/08. Will.mp3"

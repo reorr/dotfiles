@@ -1,0 +1,34 @@
+sw_volume: 100
+audio_device_state:1:My ALSA Device
+audio_device_state:1:my_fifo
+state: play
+current: 8
+time: 4.144000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Innocent flower/01. 春空.mp3
+1:Innocent flower/02. 夢のつぼみ.mp3
+2:Innocent flower/03. Lucky Clover.mp3
+3:Innocent flower/04. コイセヨオトメ.mp3
+4:Innocent flower/05. 涙のあとは.mp3
+5:Innocent flower/06. いつもずっと.mp3
+6:Innocent flower/07. Starry Wish.mp3
+7:Innocent flower/08. Will.mp3
+8:Innocent flower/09. 星屑のコントレイル.mp3
+9:Innocent flower/10. 旅の途中.mp3
+10:Innocent flower/11. harmony ribbon.mp3
+11:Innocent flower/12. Innocent flower.mp3
+12:Inori Minase - Aimaimoko/01. アイマイモコ.mp3
+13:Inori Minase - Aimaimoko/02. リトルシューゲイザー.mp3
+14:Inori Minase - Aimaimoko/03. 夏夢.mp3
+15:Inori Minase - Yume no Tsubomo/03 あの日の空へ.mp3
+16:Ready Steady Go!/1 Ready Steady Go!.mp3
+17:Ready Steady Go!/2 Happy Birthday.mp3
+18:Ready Steady Go!/3 Winter Wonder Wander.mp3
+playlist_end
