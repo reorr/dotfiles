@@ -18,8 +18,7 @@ Feel free to clone or fork it as you want.
 - Alt + Super + Up = Toggle maximize
 - Super + Space = Open window manager menu
 - Super + D = Toggle show desktop
-- Super + 0 = Undecorate current window
-- Super + 1 = Decorate current window
+- Super + 0 = Toggle decorate current window
 - Super + Up = Snap window to upper half
 - Super + Down = Snap window to 
 - Super + Right = Snap window to half right

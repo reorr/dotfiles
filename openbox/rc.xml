@@ -55,9 +55,9 @@ can be one of the
 'Active' - where the active window is -->
   </placement>
   <theme>
-    <name>touka</name>
-    <cornerRadius menu="yes">5</cornerRadius>
-    <titleLayout>IMC</titleLayout>
+    <name>myobtheme</name>
+    <cornerRadius menu="yes">10</cornerRadius>
+    <titleLayout>DSIMC</titleLayout>
     <!--
                         available characters are NDSLIMC, each can occur 
 at most once.
@@ -72,8 +72,8 @@ at most once.
     <keepBorder>yes</keepBorder>
     <animateIconify>yes</animateIconify>
     <font place="ActiveWindow">
-      <name>Roboto Medium</name>
-      <size>10</size>
+      <name>DejaVu Sans Mono</name>
+      <size>9</size>
       <!-- font size in points -->
       <weight>Normal</weight>
       <!-- 'bold' or 'normal' -->
@@ -81,8 +81,8 @@ at most once.
       <!-- 'italic' or 'normal' -->
     </font>
     <font place="InactiveWindow">
-      <name>Roboto Medium</name>
-      <size>10</size>
+      <name>DejaVu Sans Mono</name>
+      <size>9</size>
       <!-- font size in points -->
       <weight>Normal</weight>
       <!-- 'bold' or 'normal' -->
@@ -90,8 +90,8 @@ at most once.
       <!-- 'italic' or 'normal' -->
     </font>
     <font place="MenuHeader">
-      <name>Roboto Medium</name>
-      <size>10</size>
+      <name>DejaVu Sans Mono</name>
+      <size>8</size>
       <!-- font size in points -->
       <weight>Normal</weight>
       <!-- 'bold' or 'normal' -->
@@ -99,8 +99,8 @@ at most once.
       <!-- 'italic' or 'normal' -->
     </font>
     <font place="MenuItem">
-      <name>Roboto Medium</name>
-      <size>10</size>
+      <name>DejaVu Sans Mono</name>
+      <size>8</size>
       <!-- font size in points -->
       <weight>Normal</weight>
       <!-- 'bold' or 'normal' -->
@@ -108,8 +108,8 @@ at most once.
       <!-- 'italic' or 'normal' -->
     </font>
     <font place="ActiveOnScreenDisplay">
-      <name>Roboto Medium</name>
-      <size>10</size>
+      <name>DejaVu Sans Mono</name>
+      <size>8</size>
       <!-- font size in points -->
       <weight>Normal</weight>
       <!-- 'bold' or 'normal' -->
@@ -117,8 +117,8 @@ at most once.
       <!-- 'italic' or 'normal' -->
     </font>
     <font place="InactiveOnScreenDisplay">
-      <name>Roboto Medium</name>
-      <size>10</size>
+      <name>DejaVu Sans Mono</name>
+      <size>8</size>
       <!-- font size in points -->
       <weight>Normal</weight>
       <!-- 'bold' or 'normal' -->
@@ -215,10 +215,7 @@ use this in other
       <action name="ToggleMaximizeFull"/>
     </keybind>
     <keybind key="W-0">
-      <action name="Undecorate"/>
-    </keybind>
-    <keybind key="W-1">
-      <action name="Decorate"/>
+      <action name="ToggleDecorations"/>
     </keybind>
     <keybind key="W-Up">
       <action name="UnmaximizeFull"/>
@@ -256,22 +253,22 @@ use this in other
     </keybind>
     <keybind key="S-W-Up">
       <action name="MoveRelative">
-        <y>-40</y>
+        <y>-10</y>
       </action>
     </keybind>
     <keybind key="S-W-Right">
       <action name="MoveRelative">
-        <x>40</x>
+        <x>10</x>
       </action>
     </keybind>
     <keybind key="S-W-Down">
       <action name="MoveRelative">
-        <y>40</y>
+        <y>10</y>
       </action>
     </keybind>
     <keybind key="S-W-Left">
       <action name="MoveRelative">
-        <x>-40</x>
+        <x>-10</x>
       </action>
     </keybind>
     <keybind key="W-End">
@@ -360,24 +357,14 @@ use this in other
         <command>clearine</command>
       </action>
     </keybind>
-    <keybind key="XF86AudioRaiseVolume">
-      <action name="Execute">
-        <command>ponymix increase 2</command>
-      </action>
-    </keybind>
-    <keybind key="XF86AudioLowerVolume">
-      <action name="Execute">
-        <command>ponymix decrease 2</command>
-      </action>
-    </keybind>
-    <keybind key="XF86AudioMute">
-      <action name="Execute">
-        <command>ponymix toggle</command>
-      </action>
-    </keybind>
     <keybind key="W-l">
       <action name="Execute">
         <command>xlock -mousemotion +description -mode blank -bg black -fg grey30</command>
+      </action>
+    </keybind>
+    <keybind key="C-A-d">
+      <action name="Execute">
+        <command>clearine</command>
       </action>
     </keybind>
   </keyboard>
