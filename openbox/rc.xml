@@ -205,86 +205,18 @@ use this in other
   </dock>
   <keyboard>
     <chainQuitKey>C-g</chainQuitKey>
+    <!-- wm related -->
     <keybind key="W-d">
       <action name="ToggleShowDesktop"/>
     </keybind>
     <keybind key="C-W-Up">
       <action name="ToggleFullscreen"/>
     </keybind>
-    <keybind key="A-W-Up">
+    <keybind key="W-Up">
       <action name="ToggleMaximizeFull"/>
     </keybind>
     <keybind key="W-0">
       <action name="ToggleDecorations"/>
-    </keybind>
-    <keybind key="W-Up">
-      <action name="UnmaximizeFull"/>
-      <action name="MoveResizeTo">
-        <x>0</x>
-        <y>0</y>
-        <width>100%</width>
-        <height>50%</height>
-      </action>
-    </keybind>
-    <keybind key="W-Right">
-      <action name="UnmaximizeFull"/>
-      <action name="MaximizeVert"/>
-      <action name="MoveResizeTo">
-        <width>50%</width>
-      </action>
-      <action name="MoveToEdgeEast"/>
-    </keybind>
-    <keybind key="W-Down">
-      <action name="UnmaximizeFull"/>
-      <action name="MoveResizeTo">
-        <x>0</x>
-        <y>-0</y>
-        <width>100%</width>
-        <height>50%</height>
-      </action>
-    </keybind>
-    <keybind key="W-Left">
-      <action name="UnmaximizeFull"/>
-      <action name="MaximizeVert"/>
-      <action name="MoveResizeTo">
-        <width>50%</width>
-      </action>
-      <action name="MoveToEdgeWest"/>
-    </keybind>
-    <keybind key="S-W-Up">
-      <action name="MoveRelative">
-        <y>-10</y>
-      </action>
-    </keybind>
-    <keybind key="S-W-Right">
-      <action name="MoveRelative">
-        <x>10</x>
-      </action>
-    </keybind>
-    <keybind key="S-W-Down">
-      <action name="MoveRelative">
-        <y>10</y>
-      </action>
-    </keybind>
-    <keybind key="S-W-Left">
-      <action name="MoveRelative">
-        <x>-10</x>
-      </action>
-    </keybind>
-    <keybind key="W-End">
-      <action name="MoveToCenter"/>
-    </keybind>
-    <keybind key="W-Delete">
-      <action name="MoveToEdgeWest"/>
-    </keybind>
-    <keybind key="W-Page_Down">
-      <action name="MoveToEdgeEast"/>
-    </keybind>
-    <keybind key="C-W-Left">
-      <action name="DesktopPrevious"/>
-    </keybind>
-    <keybind key="C-W-Right">
-      <action name="DesktopNext"/>
     </keybind>
     <keybind key="A-F4">
       <action name="Close"/>
@@ -317,16 +249,269 @@ use this in other
         <desktop>yes</desktop>
       </action>
     </keybind>
+    <keybind key="W-End">
+      <action name="MoveToCenter"/>
+    </keybind>
+    <!-- gaps 2 windows -->
+    <keybind key="A-W-Up">
+      <action name="Unmaximize"/>
+      <action name="MoveResizeTo">
+        <x>1%</x>
+        <y>2%</y>
+        <width>98%</width>
+        <height>47%</height>
+      </action>
+    </keybind>
+    <keybind key="A-W-Down">
+      <action name="Unmaximize"/>
+      <action name="MoveResizeTo">
+        <x>1%</x>
+        <y>-2%</y>
+        <width>98%</width>
+        <height>47%</height>
+      </action>
+    </keybind>
+    <keybind key="A-W-Right">
+      <action name="Unmaximize"/>
+      <action name="MoveResizeTo">        
+        <x>-1%</x>
+        <y>2%</y>
+        <width>48%</width>
+        <height>96%</height>
+      </action>
+    </keybind>
+    <keybind key="A-W-Left">
+      <action name="Unmaximize"/>
+      <action name="MoveResizeTo">        
+        <x>1%</x>
+        <y>2%</y>
+        <width>49%</width>
+        <height>96%</height>
+      </action>
+    </keybind>
+    <!--gaps 3 windows-->
+    <keybind key="W-z">
+      <action name="Unmaximize"/>
+      <action name="MoveResizeTo">
+        <x>1%</x>
+        <y>2%</y>
+        <height>96%</height>
+        <width>32%</width>
+      </action>
+    </keybind>
+    <keybind key="W-x">
+      <action name="Unmaximize"/>
+      <action name="MoveResizeTo">
+        <x>34%</x>
+        <y>2%</y>
+        <height>96%</height>
+        <width>32%</width>
+      </action>
+    </keybind>
+    <keybind key="W-c">
+      <action name="Unmaximize"/>
+      <action name="MoveResizeTo">
+        <x>-1%</x>
+        <y>2%</y>
+        <height>96%</height>
+        <width>32%</width>
+      </action>
+    </keybind>
+    <!-- gaps 4 windows-->
+    <keybind key="W-h">
+      <action name="Unmaximize"/>
+      <action name="MoveResizeTo">
+        <x>1%</x>
+        <y>2%</y>
+        <height>47%</height>
+        <width>49%</width>
+      </action>
+    </keybind>
+    <keybind key="W-j">
+      <action name="Unmaximize"/>
+      <action name="MoveResizeTo">
+        <x>-1%</x>
+        <y>2%</y>
+        <height>47%</height>
+        <width>48%</width>
+      </action>
+    </keybind>
+    <keybind key="W-k">
+      <action name="Unmaximize"/>
+      <action name="MoveResizeTo">
+        <x>1%</x>
+        <y>-2%</y>
+        <height>47%</height>
+        <width>49%</width>
+      </action>
+    </keybind>
+    <keybind key="W-l">
+      <action name="Unmaximize"/>
+      <action name="MoveResizeTo">
+        <x>-1%</x>
+        <y>-2%</y>
+        <height>47%</height>
+        <width>48%</width>
+      </action>
+    </keybind>
+    <!-- gaps 6 windows -->
+    <keybind key="S-W-z">
+      <action name="Unmaximize"/>
+      <action name="MoveResizeTo">
+        <x>1%</x>
+        <y>2%</y>
+        <height>47%</height>
+        <width>32%</width>
+      </action>
+    </keybind>
+    <keybind key="S-W-x">
+      <action name="Unmaximize"/>
+      <action name="MoveResizeTo">
+        <x>34%</x>
+        <y>2%</y>
+        <height>47%</height>
+        <width>32%</width>
+      </action>
+    </keybind>
+    <keybind key="S-W-c">
+      <action name="Unmaximize"/>
+      <action name="MoveResizeTo">
+        <x>-1%</x>
+        <y>2%</y>
+        <height>47%</height>
+        <width>32%</width>
+      </action>
+    </keybind>
+    <keybind key="C-W-z">
+      <action name="Unmaximize"/>
+      <action name="MoveResizeTo">
+        <x>1%</x>
+        <y>-2%</y>
+        <height>47%</height>
+        <width>32%</width>
+      </action>
+    </keybind>
+    <keybind key="C-W-x">
+      <action name="Unmaximize"/>
+      <action name="MoveResizeTo">
+        <x>34%</x>
+        <y>-2%</y>
+        <height>47%</height>
+        <width>32%</width>
+      </action>
+    </keybind>
+    <keybind key="C-W-c">
+      <action name="Unmaximize"/>
+      <action name="MoveResizeTo">
+        <x>-1%</x>
+        <y>-2%</y>
+        <height>47%</height>
+        <width>32%</width>
+      </action>
+    </keybind>
+    <!-- change workspace -->
+    <keybind key="C-W-Left">
+      <action name="DesktopPrevious"/>
+    </keybind>
+    <keybind key="C-W-Right">
+      <action name="DesktopNext"/>
+    </keybind>
+    <!-- Move window -->
+    <keybind key="S-W-Up">
+      <action name="MoveRelative">
+        <x>0</x>
+        <y>-20</y>
+      </action>
+    </keybind>
+    <keybind key="S-W-Down">
+      <action name="MoveRelative">
+        <x>0</x>
+        <y>20</y>
+      </action>
+    </keybind>
+    <keybind key="S-W-Right">
+      <action name="MoveRelative">
+        <x>20</x>
+        <y>0</y>
+      </action>
+    </keybind>
+    <keybind key="S-W-Left">
+      <action name="MoveRelative">
+        <x>-20</x>
+        <y>0</y>
+      </action>
+    </keybind>
+    <!-- Volume -->
+    <keybind key="XF86AudioRaiseVolume">
+      <action name="Execute">
+        <command>volch up</command>
+      </action>
+    </keybind>
+    <keybind key="XF86AudioLowerVolume">
+      <action name="Execute">
+        <command>volch down</command>
+      </action>
+    </keybind>
+    <keybind key="XF86AudioMute">
+      <action name="Execute">
+        <command>volch toggle</command>
+      </action>
+    </keybind>
+    <!-- Lockscreen -->    
+    <keybind key="XF86ScreenSaver">
+      <action name="Execute">
+        <command>xflock4</command>
+      </action>
+    </keybind>
+    <!-- rotate screen -->
+    <keybind key="C-A-Left">
+      <action name="Execute">
+        <command>xrandr --output LVDS1 --rotate left</command>
+      </action>
+    </keybind>
+    <keybind key="C-A-Right">
+      <action name="Execute">
+        <command>xrandr --output LVDS1 --rotate right</command>
+      </action>
+    </keybind>
+    <keybind key="C-A-Up">
+      <action name="Execute">
+        <command>xrandr --output LVDS1 --rotate normal</command>
+      </action>
+    </keybind>
+    <keybind key="C-A-Down">
+      <action name="Execute">
+        <command>xrandr --output LVDS1 --rotate inverted</command>
+      </action>
+    </keybind>
+    <!-- mpd control -->
+    <keybind key="XF86AudioNext">
+      <action name="Execute">
+        <command>notify_mpd next</command>
+      </action>
+    </keybind>
+    <keybind key="XF86AudioPrev">
+      <action name="Execute">
+        <command>notify_mpd prev</command>
+      </action>
+    </keybind>
+    <keybind key="XF86AudioPlay">
+      <action name="Execute">
+        <command>notify_mpd toggle</command>
+      </action>
+    </keybind>
+    <!-- screenshot keybind -->
     <keybind key="Print">
       <action name="Execute">
-        <command>chiisu -n</command>
+        <command>kashatto</command>
       </action>
     </keybind>
     <keybind key="C-Print">
       <action name="Execute">
-        <command>scrot -s</command>
+        <command>kashatto crop</command>
       </action>
     </keybind>
+    <!--  -->
     <keybind key="S-Enter">
       <action name="Execute">
         <command>urxvt</command>
@@ -357,11 +542,11 @@ use this in other
         <command>clearine</command>
       </action>
     </keybind>
-    <keybind key="W-l">
+    <!-- <keybind key="W-l">
       <action name="Execute">
         <command>xlock -mousemotion +description -mode blank -bg black -fg grey30</command>
       </action>
-    </keybind>
+    </keybind> -->
     <keybind key="C-A-d">
       <action name="Execute">
         <command>clearine</command>
