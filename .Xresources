@@ -1,0 +1,62 @@
+Xft.dpi:        96
+Xft.antialias:  true
+Xft.rgba:       rgb
+Xft.hinting:    true
+Xft.hintstyle:  hintslight
+
+URxvt.intensityStyles:  false
+URxvt.font:             xft:Cousine Nerd Font Mono:bold:size=8,\
+            xft:Kochi Gothic:antialias=false,\
+            xft:Baekmuk Gulim
+URxvt.boldFont:         xft:Cousine Nerd Font Mono:bold:size=8,\
+            xft:Kochi Gothic:antialias=false,\
+            xft:Baekmuk Gulim
+URxvt.saveLines:        8192
+
+URxvt*scrollTtyOutput:    false
+URxvt*scrollWithBuffer:   true
+URxvt*scrollTtyKeypress:  true
+URxvt.scrollBar:          false
+URxvt.internalBorder:     20
+URxvt.cursorBlink:        false
+URxvt.cursorUnderline:    true
+URxvt*skipBuiltinGlyphs:    true
+
+URxvt.perl-ext-common:  resize-font
+URxvt.iso14755: false
+URxvt.iso14755_52: false
+URxvt.keysym.C-minus:     resize-font:smaller
+URxvt.keysym.C-equal:     resize-font:bigger
+URxvt.keysym.C-0:      	  resize-font:reset
+URxvt.keysym.C-question:  resize-font:show
+
+URxvt.geometry:	57x14
+
+rofi.modi:                           ssh,window,drun,run
+rofi.sidebar-mode:                   true
+rofi.terminal:                       urxvt
+rofi.ssh-client:                     ssh
+rofi.ssh-command:                    {terminal} -e "{ssh-client} {host}"
+rofi.opacity:                        100
+rofi.width:                          40
+rofi.lines:                          5
+rofi.columns:                        3
+rofi.font:                           mplus Nerd Font 9
+rofi.bw:                             10
+rofi.location:                       0
+rofi.padding:                        40
+rofi.levenshtein-sort:               true
+rofi.case-sensitive:                 false
+rofi.fuzzy:                          false
+rofi.line-margin:                    30
+rofi.separator-style:                solid
+rofi.hide-scrollbar:                 true
+rofi.markup-rows:                    false
+rofi.scrollbar-width: 0
+rofi.color-enabled: false
+! State:           ´bg´,     ´fg´,     ´bgalt´,  ´hlbg´,   ´hlfg´
+rofi.color-normal: #FAFBFB,  #514F4B,  #FAFBFB,  #E6C5B8,  #FAFBFB
+rofi.color-urgent: #FAFBFB,  #514F4B,  #FAFBFB,  #E6C5B8,  #FAFBFB
+rofi.color-active: #FAFBFB,  #514F4B,  #FAFBFB,  #E6C5B8,  #FAFBFB
+!                  ´background´, ´border´
+rofi.color-window: #FAFBFB, #E6C5B8
