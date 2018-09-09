@@ -20,33 +20,48 @@ notify_send() {
     covers="$(find "$album_dir" -type d -exec find {} -maxdepth 1 -type f -iregex ".*/.*\(${album}\|cover\|folder\|artwork\|front\).*[.]\(jpe?g\|png\|gif\|bmp\)" \; )"
     src="$(echo -n "$covers" | head -n1)"
     rm -f "$COVER" 
-    if [[ -n "$src" ]] ; then
-	convert "$src" -resize 200x "$COVER"
-        if [[ -f "$COVER" ]] ; then
-           #scale down the cover to 30% of the original
-           #printf "\e]20;${COVER};70x70+87+00:op=keep-aspect\a"
-           notify-send --expire-time=2000 -i ${COVER} "$mpd_state" "$title"
-        else
-            notify-send "$mpd_state" "$title"
-        fi
+    if ! pgrep -x "ncmpcpp" > /dev/null; then
+	    if [[ -n "$src" ]] ; then
+		convert "$src" -resize 200x "$COVER"
+	        if [[ -f "$COVER" ]] ; then
+	           #scale down the cover to 30% of the original
+	           #printf "\e]20;${COVER};70x70+87+00:op=keep-aspect\a"
+	           notify-send --expire-time=2000 -i ${COVER} "$mpd_state" "$title"
+	        else
+	            notify-send "$mpd_state" "$title"
+	        fi
+	    else
+	        notify-send "$mpd_state" "$title"
+	    fi
     else
-        notify-send "$mpd_state" "$title"
+    	echo "ncmpcpp running";
     fi
 }
+
+#check_ncmpcpp() {
+#	if [[ ! -z 'pidof ncmpcpp' ]]; then
+#		echo "ncmpcpp running";
+#	else
+#		notify_send
+#	fi
+#}
 
 main() {
     case "$1" in
         toggle)
             mpc_command toggle
             notify_send
+#            check_ncmpcpp
             ;;
         next)
             mpc_command next
             notify_send
+#            check_ncmpcpp
             ;;
         prev)
             mpc_command prev
             notify_send
+#            check_ncmpcpp
             ;;
         *)
             printf "ayyy\n"
