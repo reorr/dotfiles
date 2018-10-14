@@ -6,8 +6,6 @@ Feel free to clone or fork it as you want.
 ### **[Openbox](#openbox)**<br>
 - **[Shotcuts](#openbox-keybind)**<br>
 
-### **[Remeh temeh](#remeh-temeh)**<br>
-
 ## Openbox
 ### Openbox Keybind
 | Key | Action |
@@ -15,6 +13,7 @@ Feel free to clone or fork it as you want.
 | Control + Super + Up | Toggle fullscreen |
 | Control + Super + Right | Move to the next workspace |
 | Control + Super + Left | Move to the previous workspace |
+| Control + Space | Resize window with keyboard arrow |
 | Alt + F4 | Close window |
 | Alt + Escape | Unfocus window and move to bottom |
 | Alt + Space | Show window menu |
@@ -45,6 +44,3 @@ Feel free to clone or fork it as you want.
 | Shift + Super + Down | Move window down by 20 pixels |
 | Shift + Super + Right | Move window to right by 20 pixels |
 | Shift + Super + Left | Move window left by 20 pixel |
-
-## Remeh temeh
-Contains many scripts called by keybind
