@@ -49,7 +49,7 @@ progressbar_look = "»»"
 #progressbar_look = "━━"
 
 #execute_on_song_change="~/.ncmpcpp/albumart"
-execute_on_player_state_change = "~/.ncmpcpp/albumart"
+execute_on_player_state_change = "~/.ncmpcpp/albumartviz"
 
 mouse_support = "yes"
 header_visibility = "no"
@@ -75,7 +75,7 @@ song_columns_list_format = "(6)[]{} (25)[green]{a} (34)[white]{t|f} (5f)[magenta
 color1 = "white"
 color2 = "green"
 
-song_list_format = " $7%t$9 $R$3%a                      "
+song_list_format = " $7%t$9 $R$3%a                       "
 
 song_status_format = "$b$7♫ $2%a $4⟫$3⟫ $8%t $4⟫$3⟫ $5%b "
 

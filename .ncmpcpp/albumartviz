@@ -25,8 +25,8 @@ function reset_background
 	convert "$src" -resize 700x "$COVER"
         if [[ -f "$COVER" ]] ; then
            #scale down the cover to 30% of the original
-           printf "\e]20;${COVER};65x65+87+00:op=keep-aspect\a"
-           printf "\e]20;${COVER};65x65+87+00:op=keep-aspect\a"
+           #printf "\e]20;${COVER};65x65+87+00:op=keep-aspect\a"
+           printf "\e]20;${COVER};65x65+45+00:op=keep-aspect\a"
            notify-send --expire-time=2000 -i ${COVER} "$mpd_state" "$title"
         else
             reset_background
